@@ -1,0 +1,63 @@
+# WebSocket Image Slider with MongoDB
+
+This project is an image slider that uses WebSockets for real-time communication with a server and MongoDB for data storage.
+
+## How it works
+
+The client establishes a WebSocket connection to the server and sends a 'get_key' message. The server responds with a key, which is then used to fetch images from the server.
+
+The images are displayed in a slider. When the server sends an 'Images updated' message, the client fetches the updated images and refreshes the slider.
+
+## index.js
+
+The `index.js` file is the entry point of the application. It sets up the Express server and the WebSocket server, and connects to the MongoDB database.
+
+It uses the configuration from the environment variables to set up the servers and the database connection.
+
+The Express server serves the client-side files and provides an API for fetching images from the database.
+
+The WebSocket server handles real-time communication with the client. It listens for 'get_key' messages from the client, responds with the WebSocket key, and sends 'Images updated' messages when the images in the database are updated.
+
+The MongoDB connection is used to fetch images from the database and update the images when necessary.
+
+
+## Main.js
+
+The main.js file contains the client-side JavaScript code. It sets up the WebSocket connection and event listeners, and defines the `onLoad` function that fetches the images and updates the slider.
+
+
+## Project Configuration
+
+The project uses the following environment variables for configuration:
+
+### MongoDB Connection Configurations
+
+- `db_username`: The username for the MongoDB database.
+- `db_password`: The password for the MongoDB database.
+- `db_name`: The name of the MongoDB database.
+- `db_collection`: The name of the collection in the MongoDB database.
+- `db_cluster`: The MongoDB cluster where the database is hosted.
+- `db_app`: The name of the MongoDB application.
+
+### App Configurations
+
+- `app_port`: The port where the Express server is running.
+- `app_websocket_port`: The port where the WebSocket server is running.
+- `websocket_key`: The key used for WebSocket communication.
+- `debug_mode`: Whether the application is running in debug mode.
+
+## Running the Project
+
+1. Clone the repository to your local machine.
+2. Install the project dependencies by running `npm install`.
+3. Set the environment variables listed above.
+4. Start the server by running `node server.js` or `npm start`
+5. Open the client by loading the HTML file in a web browser.
+
+## Dependencies
+
+This project uses the following libraries:
+
+- Express: For the web server.
+- ws: For the WebSocket server.
+- mongodb: For connecting to the MongoDB database.
