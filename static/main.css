@@ -1,0 +1,13 @@
+img{
+    object-fit: contain;
+    width: 50%;
+}
+.item{
+    text-align: center;
+    
+    overflow: hidden !important;
+}
+.container{
+    overflow: hidden;
+    height: 100%;
+}

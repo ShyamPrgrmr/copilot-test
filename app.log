@@ -1,0 +1,293 @@
+[2024-03-17T10:20:06.874Z] INFO Server is running on port 3000
+[2024-03-17T10:24:39.682Z] INFO Server is running on port 3000
+[2024-03-17T10:27:20.872Z] INFO Server is running on port 3000
+[2024-03-17T10:27:34.511Z] INFO Server is running on port 3000
+[2024-03-17T10:28:23.685Z] INFO Server is running on port 3000
+[2024-03-17T10:33:47.624Z] INFO Client connected : ::ffff:127.0.0.1:51832
+[2024-03-17T10:35:15.012Z] INFO Key sent to client
+[2024-03-17T10:35:29.883Z] INFO Client disconnected
+[2024-03-17T10:38:30.247Z] INFO Client connected : ::ffff:127.0.0.1:52287
+[2024-03-17T10:38:39.572Z] INFO Key sent to client
+[2024-03-17T10:39:17.451Z] INFO Client disconnected
+[2024-03-17T10:44:32.455Z] INFO Client connected : ::ffff:127.0.0.1:52801
+[2024-03-17T10:45:14.079Z] INFO Key sent to client
+[2024-03-17T10:48:27.440Z] INFO Server is running on port 3000
+[2024-03-17T10:50:51.706Z] ERROR Unauthorized request
+[2024-03-17T10:50:59.383Z] ERROR Unauthorized request
+[2024-03-17T10:51:44.556Z] ERROR Unauthorized request
+[2024-03-17T10:51:48.443Z] ERROR Unauthorized request
+[2024-03-17T10:52:10.445Z] INFO Server is running on port 3000
+[2024-03-17T10:52:14.641Z] ERROR Unauthorized request
+[2024-03-17T10:53:14.139Z] INFO Server is running on port 3000
+[2024-03-17T10:53:18.008Z] INFO Image link saved successfully
+[2024-03-17T10:53:27.722Z] INFO Client connected : ::ffff:127.0.0.1:53530
+[2024-03-17T10:53:32.582Z] INFO Image link saved successfully
+[2024-03-17T10:55:19.259Z] INFO Server is running on port 3000
+[2024-03-17T10:56:39.023Z] INFO Client connected : ::ffff:127.0.0.1:53775
+[2024-03-17T10:56:43.561Z] INFO Image link saved successfully
+[2024-03-17T11:00:16.324Z] INFO Key sent to client
+[2024-03-17T11:00:29.154Z] INFO Images fetched successfully
+[2024-03-17T11:03:37.017Z] ERROR Error in connecting to database
+[2024-03-17T11:12:02.345Z] INFO Server is running on port 3000
+[2024-03-17T11:19:46.584Z] INFO Server is running on port 3000
+[2024-03-17T11:22:28.895Z] INFO Server is running on port 3000
+[2024-03-17T11:37:02.061Z] INFO Client connected : ::1:56513
+[2024-03-17T11:37:02.081Z] INFO Key sent to client
+[2024-03-17T11:42:15.722Z] INFO Server is running on port 3000
+[2024-03-17T11:48:44.044Z] INFO Server is running on port 3000
+[2024-03-17T11:49:01.900Z] INFO Server is running on port 3000
+[2024-03-17T11:49:09.611Z] INFO Client connected : ::ffff:127.0.0.1:57181
+[2024-03-17T11:49:20.395Z] INFO Client connected : ::1:57200
+[2024-03-17T11:49:20.416Z] INFO Key sent to client
+[2024-03-17T11:49:20.421Z] ERROR Unauthorized request
+[2024-03-17T11:49:29.075Z] INFO Client disconnected
+[2024-03-17T11:49:29.086Z] INFO Client connected : ::1:57208
+[2024-03-17T11:49:29.155Z] INFO Key sent to client
+[2024-03-17T11:49:29.194Z] INFO Images fetched successfully
+[2024-03-17T11:49:31.153Z] INFO Client disconnected
+[2024-03-17T11:49:31.177Z] INFO Client connected : ::1:57215
+[2024-03-17T11:49:31.213Z] INFO Key sent to client
+[2024-03-17T11:49:31.219Z] ERROR Unauthorized request
+[2024-03-17T11:49:32.904Z] INFO Client disconnected
+[2024-03-17T11:49:32.920Z] INFO Client connected : ::1:57220
+[2024-03-17T11:49:32.948Z] INFO Key sent to client
+[2024-03-17T11:49:32.956Z] ERROR Unauthorized request
+[2024-03-17T11:51:03.478Z] INFO Server is running on port 3000
+[2024-03-17T11:52:43.366Z] INFO Server is running on port 3000
+[2024-03-17T11:53:29.911Z] INFO Server is running on port 3000
+[2024-03-17T11:53:52.508Z] INFO Server is running on port 3000
+[2024-03-17T11:53:57.005Z] INFO Server is running on port 3000
+[2024-03-17T11:56:41.911Z] INFO Server is running on port 3000
+[2024-03-17T12:00:42.929Z] INFO Client connected : ::1:58082
+[2024-03-17T12:00:42.953Z] INFO Key sent to client
+[2024-03-17T12:00:43.003Z] INFO Images fetched successfully
+[2024-03-17T12:02:56.512Z] INFO Client disconnected
+[2024-03-17T12:02:56.526Z] INFO Client connected : ::1:58225
+[2024-03-17T12:02:56.550Z] INFO Key sent to client
+[2024-03-17T12:02:56.599Z] INFO Images fetched successfully
+[2024-03-17T12:05:26.002Z] INFO Server is running on port 3000
+[2024-03-17T12:05:35.502Z] INFO Client connected : ::1:58418
+[2024-03-17T12:05:35.523Z] INFO Key sent to client
+[2024-03-17T12:05:35.546Z] INFO Images fetched successfully
+[2024-03-17T12:08:04.743Z] INFO Client disconnected
+[2024-03-17T12:08:04.759Z] INFO Client connected : ::1:58581
+[2024-03-17T12:08:04.797Z] INFO Key sent to client
+[2024-03-17T12:08:04.822Z] INFO Images fetched successfully
+[2024-03-17T12:08:54.804Z] INFO Client disconnected
+[2024-03-17T12:08:54.827Z] INFO Client connected : ::1:58638
+[2024-03-17T12:08:54.853Z] INFO Key sent to client
+[2024-03-17T12:08:54.871Z] INFO Images fetched successfully
+[2024-03-17T12:09:19.073Z] INFO Client disconnected
+[2024-03-17T12:09:19.090Z] INFO Client connected : ::1:58680
+[2024-03-17T12:09:19.119Z] INFO Key sent to client
+[2024-03-17T12:09:19.139Z] INFO Images fetched successfully
+[2024-03-17T12:10:10.696Z] INFO Client disconnected
+[2024-03-17T12:10:10.718Z] INFO Client connected : ::1:58748
+[2024-03-17T12:10:10.752Z] INFO Key sent to client
+[2024-03-17T12:10:10.772Z] INFO Images fetched successfully
+[2024-03-17T12:11:40.308Z] INFO Client disconnected
+[2024-03-17T12:11:40.332Z] INFO Client connected : ::1:58856
+[2024-03-17T12:11:40.360Z] INFO Key sent to client
+[2024-03-17T12:11:40.374Z] INFO Images fetched successfully
+[2024-03-17T12:12:35.181Z] INFO Client connected : ::ffff:127.0.0.1:58902
+[2024-03-17T12:12:44.311Z] INFO Image link saved successfully
+[2024-03-17T12:12:44.325Z] INFO Images fetched successfully
+[2024-03-17T12:13:05.132Z] INFO Client disconnected
+[2024-03-17T12:13:05.180Z] INFO Client connected : ::1:58935
+[2024-03-17T12:13:05.221Z] INFO Key sent to client
+[2024-03-17T12:13:05.245Z] INFO Images fetched successfully
+[2024-03-17T12:14:41.611Z] ERROR Error in connecting to database
+[2024-03-17T12:15:17.731Z] INFO Server is running on port 3000
+[2024-03-17T12:15:25.016Z] INFO Client connected : ::1:59132
+[2024-03-17T12:15:25.040Z] INFO Key sent to client
+[2024-03-17T12:15:25.063Z] INFO Images fetched successfully
+[2024-03-17T12:15:54.512Z] INFO Client disconnected
+[2024-03-17T12:15:54.531Z] INFO Client connected : ::1:59167
+[2024-03-17T12:15:54.565Z] INFO Key sent to client
+[2024-03-17T12:15:54.580Z] INFO Images fetched successfully
+[2024-03-17T12:17:23.935Z] INFO Client disconnected
+[2024-03-17T12:17:23.959Z] INFO Client connected : ::1:59272
+[2024-03-17T12:17:24.007Z] INFO Key sent to client
+[2024-03-17T12:17:24.031Z] INFO Images fetched successfully
+[2024-03-17T12:17:34.608Z] INFO Client disconnected
+[2024-03-17T12:17:34.628Z] INFO Client connected : ::1:59286
+[2024-03-17T12:17:34.655Z] INFO Key sent to client
+[2024-03-17T12:17:34.669Z] INFO Images fetched successfully
+[2024-03-17T12:18:51.844Z] INFO Server is running on port 3000
+[2024-03-17T12:18:56.337Z] INFO Client connected : ::1:59380
+[2024-03-17T12:18:56.387Z] INFO Key sent to client
+[2024-03-17T12:18:56.422Z] INFO Images fetched successfully
+[2024-03-17T12:21:25.119Z] INFO Server is running on port 3000
+[2024-03-17T12:21:28.077Z] INFO Client connected : ::1:59559
+[2024-03-17T12:21:28.099Z] INFO Key sent to client
+[2024-03-17T12:21:28.132Z] INFO Images fetched successfully
+[2024-03-17T12:22:06.100Z] INFO Images fetched successfully
+[2024-03-17T12:22:19.730Z] INFO Image link saved successfully
+[2024-03-17T12:22:19.731Z] INFO Images updated
+[2024-03-17T12:22:19.746Z] INFO Images fetched successfully
+[2024-03-17T12:25:22.612Z] INFO Client disconnected
+[2024-03-17T12:25:22.772Z] INFO Client connected : ::1:60244
+[2024-03-17T12:25:22.810Z] INFO Key sent to client
+[2024-03-17T12:25:22.827Z] INFO Images fetched successfully
+[2024-03-17T12:26:06.491Z] INFO Client disconnected
+[2024-03-17T12:26:06.574Z] INFO Client connected : ::1:60297
+[2024-03-17T12:26:06.936Z] INFO Key sent to client
+[2024-03-17T12:26:06.949Z] INFO Images fetched successfully
+[2024-03-17T12:27:01.262Z] INFO Client disconnected
+[2024-03-17T12:27:01.302Z] INFO Client connected : ::1:60363
+[2024-03-17T12:27:01.328Z] INFO Key sent to client
+[2024-03-17T12:27:01.352Z] INFO Images fetched successfully
+[2024-03-17T12:27:30.428Z] INFO Client disconnected
+[2024-03-17T12:30:20.425Z] INFO Server is running on port 3000
+[2024-03-17T12:31:35.376Z] INFO Client connected : ::1:60702
+[2024-03-17T12:31:35.384Z] INFO Key sent to client
+[2024-03-17T12:31:35.424Z] INFO Images fetched successfully
+[2024-03-17T12:32:31.035Z] INFO Client disconnected
+[2024-03-17T12:32:31.075Z] INFO Client connected : ::1:60773
+[2024-03-17T12:32:31.122Z] INFO Images fetched successfully
+[2024-03-17T12:32:31.106Z] INFO Key sent to client
+[2024-03-17T12:34:10.361Z] INFO Client disconnected
+[2024-03-17T12:34:10.415Z] INFO Client connected : ::1:60874
+[2024-03-17T12:34:10.446Z] INFO Images fetched successfully
+[2024-03-17T12:34:10.432Z] INFO Key sent to client
+[2024-03-17T12:35:17.014Z] INFO Client disconnected
+[2024-03-17T12:35:17.109Z] INFO Client connected : ::1:60925
+[2024-03-17T12:35:17.115Z] INFO Key sent to client
+[2024-03-17T12:35:17.126Z] INFO Images fetched successfully
+[2024-03-17T12:36:16.648Z] INFO Server is running on port 3000
+[2024-03-17T12:36:43.220Z] INFO Client connected : ::1:61025
+[2024-03-17T12:36:43.241Z] INFO Key sent to client
+[2024-03-17T12:36:43.278Z] INFO Images fetched successfully
+[2024-03-17T12:40:00.305Z] INFO Client disconnected
+[2024-03-17T12:40:00.327Z] INFO Client connected : ::1:61236
+[2024-03-17T12:40:00.353Z] INFO Key sent to client
+[2024-03-17T12:40:00.367Z] INFO Images fetched successfully
+[2024-03-17T12:40:28.625Z] INFO Client disconnected
+[2024-03-17T12:40:28.648Z] INFO Client connected : ::1:61274
+[2024-03-17T12:40:28.674Z] INFO Key sent to client
+[2024-03-17T12:40:28.691Z] INFO Images fetched successfully
+[2024-03-17T12:41:52.812Z] INFO Client disconnected
+[2024-03-17T12:41:52.837Z] INFO Client connected : ::1:61366
+[2024-03-17T12:41:52.859Z] INFO Key sent to client
+[2024-03-17T12:41:52.887Z] INFO Images fetched successfully
+[2024-03-17T12:42:59.707Z] INFO Client disconnected
+[2024-03-17T12:42:59.735Z] INFO Client connected : ::1:61432
+[2024-03-17T12:42:59.757Z] INFO Key sent to client
+[2024-03-17T12:42:59.778Z] INFO Images fetched successfully
+[2024-03-17T12:43:13.025Z] INFO Client disconnected
+[2024-03-17T12:43:13.050Z] INFO Client connected : ::1:61450
+[2024-03-17T12:43:13.069Z] INFO Key sent to client
+[2024-03-17T12:43:13.082Z] INFO Images fetched successfully
+[2024-03-17T12:43:40.713Z] INFO Client disconnected
+[2024-03-17T12:43:40.734Z] INFO Client connected : ::1:61483
+[2024-03-17T12:43:40.755Z] INFO Key sent to client
+[2024-03-17T12:43:40.798Z] INFO Images fetched successfully
+[2024-03-17T12:48:08.782Z] INFO Client disconnected
+[2024-03-17T12:48:08.830Z] INFO Key sent to client
+[2024-03-17T12:48:08.802Z] INFO Client connected : ::1:61917
+[2024-03-17T12:48:08.845Z] INFO Images fetched successfully
+[2024-03-17T12:48:46.956Z] INFO Client disconnected
+[2024-03-17T12:48:46.983Z] INFO Client connected : ::1:61955
+[2024-03-17T12:48:47.009Z] INFO Key sent to client
+[2024-03-17T12:48:47.034Z] INFO Images fetched successfully
+[2024-03-17T12:49:11.003Z] INFO Client disconnected
+[2024-03-17T12:49:11.026Z] INFO Client connected : ::1:61994
+[2024-03-17T12:49:11.048Z] INFO Key sent to client
+[2024-03-17T12:49:11.066Z] INFO Images fetched successfully
+[2024-03-17T12:49:47.252Z] INFO Client disconnected
+[2024-03-17T12:49:47.278Z] INFO Client connected : ::1:62036
+[2024-03-17T12:49:47.301Z] INFO Key sent to client
+[2024-03-17T12:49:47.316Z] INFO Images fetched successfully
+[2024-03-17T12:50:03.799Z] INFO Client disconnected
+[2024-03-17T12:50:03.827Z] INFO Client connected : ::1:62066
+[2024-03-17T12:50:03.832Z] INFO Key sent to client
+[2024-03-17T12:50:03.859Z] INFO Images fetched successfully
+[2024-03-17T12:50:36.497Z] INFO Client disconnected
+[2024-03-17T12:50:36.542Z] INFO Client connected : ::1:62103
+[2024-03-17T12:50:36.930Z] INFO Key sent to client
+[2024-03-17T12:50:36.942Z] INFO Images fetched successfully
+[2024-03-17T12:51:35.022Z] INFO Client disconnected
+[2024-03-17T12:51:35.041Z] INFO Client connected : ::1:62152
+[2024-03-17T12:51:35.051Z] INFO Key sent to client
+[2024-03-17T12:51:35.062Z] INFO Images fetched successfully
+[2024-03-17T12:53:23.519Z] INFO Client disconnected
+[2024-03-17T12:53:23.551Z] INFO Client connected : ::1:61847
+[2024-03-17T12:53:23.560Z] INFO Key sent to client
+[2024-03-17T12:53:24.249Z] INFO Images fetched successfully
+[2024-03-17T12:56:32.516Z] INFO Client disconnected
+[2024-03-17T12:56:32.551Z] INFO Client connected : ::1:62030
+[2024-03-17T12:56:32.558Z] INFO Key sent to client
+[2024-03-17T12:56:32.570Z] INFO Images fetched successfully
+[2024-03-17T12:57:42.502Z] INFO Client disconnected
+[2024-03-17T12:57:42.521Z] INFO Client connected : ::1:62086
+[2024-03-17T12:57:42.529Z] INFO Key sent to client
+[2024-03-17T12:57:42.547Z] INFO Images fetched successfully
+[2024-03-17T12:58:04.090Z] INFO Client disconnected
+[2024-03-17T12:58:04.120Z] INFO Client connected : ::1:62101
+[2024-03-17T12:58:04.126Z] INFO Key sent to client
+[2024-03-17T12:58:04.141Z] INFO Images fetched successfully
+[2024-03-17T12:58:17.664Z] INFO Client disconnected
+[2024-03-17T12:58:17.685Z] INFO Client connected : ::1:62108
+[2024-03-17T12:58:17.694Z] INFO Key sent to client
+[2024-03-17T12:58:17.705Z] INFO Images fetched successfully
+[2024-03-17T12:59:02.325Z] INFO Client disconnected
+[2024-03-17T12:59:02.348Z] INFO Client connected : ::1:62140
+[2024-03-17T12:59:02.354Z] INFO Key sent to client
+[2024-03-17T12:59:02.371Z] INFO Images fetched successfully
+[2024-03-17T12:59:41.010Z] INFO Client disconnected
+[2024-03-17T12:59:41.026Z] INFO Client connected : ::1:62163
+[2024-03-17T12:59:41.035Z] INFO Key sent to client
+[2024-03-17T12:59:41.057Z] INFO Images fetched successfully
+[2024-03-17T13:00:38.885Z] INFO Client disconnected
+[2024-03-17T13:00:38.907Z] INFO Client connected : ::1:51669
+[2024-03-17T13:00:38.919Z] INFO Key sent to client
+[2024-03-17T13:00:38.934Z] INFO Images fetched successfully
+[2024-03-17T13:03:11.831Z] INFO Client disconnected
+[2024-03-17T13:23:11.795Z] INFO Server is running on port 3000
+[2024-03-17T13:27:58.886Z] INFO Server is running on port 3000
+[2024-03-17T13:30:06.720Z] INFO Server is running on port 3000
+[2024-03-17T13:30:19.811Z] INFO Client connected : ::1:53557
+[2024-03-17T13:30:19.845Z] INFO Key sent to client
+[2024-03-17T13:30:19.869Z] INFO Images fetched successfully
+[2024-03-17T13:31:26.600Z] INFO Server is running on port 3000
+[2024-03-17T13:31:28.594Z] INFO Client connected : ::1:53644
+[2024-03-17T13:31:28.639Z] INFO Key sent to client
+[2024-03-17T13:31:28.663Z] INFO Images fetched successfully
+[2024-03-17T13:32:34.121Z] INFO Client connected : ::ffff:127.0.0.1:53693
+[2024-03-17T13:33:46.416Z] INFO Image link saved successfully
+[2024-03-17T13:33:46.419Z] INFO Images updated
+[2024-03-17T13:33:46.417Z] INFO Images updated
+[2024-03-17T13:33:46.435Z] INFO Images fetched successfully
+[2024-03-17T13:34:49.094Z] INFO Server is running on port 3000
+[2024-03-17T13:35:01.513Z] INFO Client connected : ::1:53835
+[2024-03-17T13:35:01.531Z] INFO Key sent to client
+[2024-03-17T13:35:01.554Z] INFO Images fetched successfully
+[2024-03-17T13:35:36.392Z] INFO Client connected : ::ffff:127.0.0.1:53856
+[2024-03-17T13:35:38.050Z] INFO Client disconnected
+[2024-03-17T13:35:38.058Z] INFO Client connected : ::1:53858
+[2024-03-17T13:35:38.071Z] INFO Key sent to client
+[2024-03-17T13:35:38.084Z] INFO Images fetched successfully
+[2024-03-17T13:35:39.032Z] INFO Client disconnected
+[2024-03-17T13:35:39.044Z] INFO Client connected : ::1:53859
+[2024-03-17T13:35:39.056Z] INFO Key sent to client
+[2024-03-17T13:35:39.069Z] INFO Images fetched successfully
+[2024-03-17T13:35:53.013Z] INFO Image link saved successfully
+[2024-03-17T13:35:53.015Z] INFO Images updated
+[2024-03-17T13:35:53.015Z] INFO Images updated
+[2024-03-17T13:35:53.028Z] INFO Images fetched successfully
+[2024-03-17T13:38:47.545Z] INFO Image link saved successfully
+[2024-03-17T13:38:47.549Z] INFO Images updated
+[2024-03-17T13:38:47.550Z] INFO Images updated
+[2024-03-17T13:38:47.565Z] INFO Images fetched successfully
+[2024-03-17T14:00:48.158Z] ERROR Error in connecting to database
+[2024-03-17T14:02:04.957Z] INFO Server is running on port 3000
+[2024-03-17T14:02:47.663Z] INFO Server is running on port 3000
+[2024-03-17T14:08:21.222Z] ERROR Error in connecting to database
+[2024-03-17T14:12:18.096Z] INFO Server is running on port 3000
+[2024-03-17T14:12:20.743Z] INFO Client connected : ::1:65393
+[2024-03-17T14:12:20.775Z] INFO Key sent to client
+[2024-03-17T14:12:20.801Z] INFO Images fetched successfully
+[2024-03-17T14:13:48.907Z] INFO Client disconnected
+[2024-03-17T14:13:48.919Z] INFO Client connected : ::1:65497
+[2024-03-17T14:13:48.930Z] INFO Key sent to client
+[2024-03-17T14:13:48.948Z] INFO Images fetched successfully
