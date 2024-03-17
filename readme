@@ -28,7 +28,7 @@ The main.js file contains the client-side JavaScript code. It sets up the WebSoc
 
 ## Project Configuration
 
-The project uses the following environment variables for configuration:
+The project uses the following environment variables or .env file for configuration:
 
 ### MongoDB Connection Configurations
 
